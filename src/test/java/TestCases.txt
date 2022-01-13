@@ -1,0 +1,19 @@
+Название: "Поиск товара Black & White Diamond Heart на сайте demowebshop"
+Приоритет: Medium
+Предусловие: Открыть сайт http://demowebshop.tricentis.com/
+
+Шаги:
+1. Ввести текст Black & White Diamond Heart  в поисковую строку
+2. Нажать на кнопку Search
+
+Expected result: В поисковый выдаче отображается товар Black & White Diamond Heart
+
+Название: "Поиск товара $100 Physical Gift Card  на сайте demowebshop"
+Приоритет: Medium
+Предусловие: Открыть сайт http://demowebshop.tricentis.com/
+
+Шаги:
+1. Ввести текст $100 Physical Gift Card  в поисковую строку
+2. Нажать на кнопку Search
+
+Expected result: В поисковый выдаче отображается товар $100 Physical Gift Card
